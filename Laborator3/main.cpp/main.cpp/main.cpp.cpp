@@ -13,7 +13,7 @@ int main()
 	cout << Math::Mul(7.3, 4.5) << '\n';
 	cout << Math::Mul(67.98, 23.56, 1.2) << '\n';
 	cout << Math::Add(4, 5,4,3,2) << '\n';
-	cout << Math::Add('z', 'b') << '\n';
+	cout << Math::Add("sa", "lut") << '\n';
 	return 0;
 }
 
