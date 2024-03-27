@@ -1,0 +1,8 @@
+﻿  Number.cpp
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\main\Number.h(40,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\main\Number.cpp(13,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\main\Number.cpp(33,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\main\Number.cpp(70,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\main\Number.cpp(102,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\main\Number.cpp(115,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.vcxproj -> C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator5\main\x64\Debug\main.exe
