@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator6\main\main\Circuit.h(55,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.vcxproj -> C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator6\main\x64\Debug\main.exe
