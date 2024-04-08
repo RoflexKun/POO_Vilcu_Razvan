@@ -7,22 +7,10 @@ public:
 	{
 		name = "BMW";
 		speed = 150;
-		fuel_capacity = 10;
+		fuel_capacity = 1100;
 		fuel_consumption = 15;
 	}
-	void RainC()
-	{
-		fuel_consumption--;
-		speed -= 10;
-	}
-	void SunnyC()
-	{
-		fuel_consumption++;
-		speed += 10;
-	}
-	void SnowyC()
-	{
-		fuel_consumption -= 3;
-		speed -= 30;
-	}
+	void RainC();
+		void SunnyC();
+		void SnowyC();
 };

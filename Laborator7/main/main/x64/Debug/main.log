@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator7\main\main\main.cpp(31,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator7\main\main\main.cpp(64,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.vcxproj -> C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator7\main\x64\Debug\main.exe

@@ -4,6 +4,8 @@
 using namespace std;
 int main()
 {
+	BMW a;
+	a.printSpeed();
 	Circuit c;
 	c.SetLength(100);
 	c.SetWeather(Weather::Rain);
