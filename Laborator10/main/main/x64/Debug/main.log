@@ -1,0 +1,55 @@
+﻿  Array.cpp
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(26,15): error C2061: syntax error: identifier 'Compare'
+  (compiling source file 'Array.cpp')
+  C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(26,15):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(3,7):
+  	while compiling class template 'Array'
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(26,10): error C2535: 'void Array<T>::Sort(void)': member function already defined or declared
+  (compiling source file 'Array.cpp')
+  C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(24,10):
+  see declaration of 'Array<T>::Sort'
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(31,37): error C2061: syntax error: identifier 'Compare'
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(31,9): error C2535: 'int Array<T>::BinarySearch(const T &)': member function already defined or declared
+  (compiling source file 'Array.cpp')
+  C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(29,9):
+  see declaration of 'Array<T>::BinarySearch'
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(35,29): error C2061: syntax error: identifier 'Compare'
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(35,9): error C2535: 'int Array<T>::Find(const T &)': member function already defined or declared
+  (compiling source file 'Array.cpp')
+  C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(33,9):
+  see declaration of 'Array<T>::Find'
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(40,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(40,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(40,40): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(41,18): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(41,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.h(41,38): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Array.cpp')
+  
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.cpp(5,13): error C2649: 'typename': is not a 'class'
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\Array.cpp(65,1): error C1004: unexpected end-of-file found
+  ArrayIterator.cpp
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\ArrayIterator.cpp(4,21): error C2649: 'typename': is not a 'class'
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator10\main\main\ArrayIterator.cpp(20,1): error C1004: unexpected end-of-file found
+  Compare.cpp
+  main.cpp
+  Generating Code...
