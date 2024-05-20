@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator11\main\main\main.cpp(28,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator11\main\main\main.cpp(9,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator11\main\main\main.cpp(9,13):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator11\main\main\main.cpp(49,5):
+  	see reference to function template instantiation 'void Sort<std::vector<int,std::allocator<int>>>(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>)' being compiled
+  
+  main.vcxproj -> C:\Users\Razvan\Desktop\INFO\OOP\POO_Vilcu_Razvan\Laborator11\main\x64\Debug\main.exe
