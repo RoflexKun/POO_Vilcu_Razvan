@@ -19,7 +19,7 @@ vector<Contact*> AddressBook::myFriends()
     return friends;
 }
 
-void AddressBook::deleteContact(string name)
+AddressBook& AddressBook::deleteContact(string name)
 {
     for (int i = 0; i < myContacts.size(); i++)
     {
@@ -30,11 +30,13 @@ void AddressBook::deleteContact(string name)
             myContacts.pop_back();
         }          
     }
+    return *this;
 }
 
-void AddressBook::addContact(Contact* name)
+AddressBook& AddressBook::addContact(Contact* name)
 {
     myContacts.push_back(name);
+    return (*this);
 }
 
 void AddressBook::printContacts()

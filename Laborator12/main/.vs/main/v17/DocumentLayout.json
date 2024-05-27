@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\contactType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\AddressBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\AddressBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\Colleague.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\Colleague.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\Friend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\Friend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\AddressBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|solutionrelative:main\\AddressBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52DEB168-1C9D-4B3A-9DC2-751CB82159D5}|main\\main.vcxproj|C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,33 +46,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AddressBook.cpp",
               "DocumentMoniker": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.cpp",
               "RelativeDocumentMoniker": "main\\AddressBook.cpp",
               "ToolTip": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.cpp",
               "RelativeToolTip": "main\\AddressBook.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACsAAAAVAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T12:55:22.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AddressBook.h",
               "DocumentMoniker": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.h",
               "RelativeDocumentMoniker": "main\\AddressBook.h",
               "ToolTip": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\AddressBook.h",
               "RelativeToolTip": "main\\AddressBook.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-27T12:48:18.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Colleague.h",
               "DocumentMoniker": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\Colleague.h",
               "RelativeDocumentMoniker": "main\\Colleague.h",
@@ -80,12 +80,11 @@
               "RelativeToolTip": "main\\Colleague.h",
               "ViewState": "AQIAAA4AAAAAAAAAAAAqwBoAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-27T12:46:14.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T12:46:14.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Acquaintance.h",
               "DocumentMoniker": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\Acquaintance.h",
               "RelativeDocumentMoniker": "main\\Acquaintance.h",
@@ -93,12 +92,11 @@
               "RelativeToolTip": "main\\Acquaintance.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-27T12:44:38.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T12:44:38.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Friend.h",
               "DocumentMoniker": "C:\\Users\\Razvan\\Desktop\\INFO\\OOP\\POO_Vilcu_Razvan\\Laborator12\\main\\main\\Friend.h",
               "RelativeDocumentMoniker": "main\\Friend.h",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "main\\Friend.h",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwBgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-27T11:17:39.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T11:17:39.479Z"
             },
             {
               "$type": "Document",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "main\\Contact.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-27T11:15:40.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T11:15:40.532Z"
             },
             {
               "$type": "Document",

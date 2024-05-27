@@ -7,8 +7,8 @@ class AddressBook
 public:
 	Contact* searchName(string name);
 	vector<Contact*> myFriends();
-	void deleteContact(string name);
-	void addContact(Contact* name);
+	AddressBook& deleteContact(string name);
+	AddressBook& addContact(Contact* name);
 	void printContacts();
 
 };
